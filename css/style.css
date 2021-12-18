@@ -1,0 +1,18 @@
+body {
+  margin: auto;
+  width: 50%;
+  border: 3px solid black;
+  padding: 15px;
+}
+
+h1 {
+  text-align: center;
+}
+
+label {
+  font-weight: bolder;
+}
+
+form {
+  width: 100%;
+}
